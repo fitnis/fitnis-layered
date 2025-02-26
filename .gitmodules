@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = git@github.com:fitnis/api.git
+[submodule "layered-infra"]
+	path = layered-infra
+	url = git@github.com:fitnis/layered-infra.git
